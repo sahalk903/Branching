@@ -4,6 +4,7 @@ public class tester {
 		Snack coke = new Snack(2);
 		Snack drPepper = new Snack(3);
 
+		System.out.println("Branch four hello!");
 }
 	
 }
