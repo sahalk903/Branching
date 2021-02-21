@@ -3,7 +3,7 @@ public class tester {
 		Snack sprite = new Snack(1);
 		Snack coke = new Snack(2);
 		Snack drPepper = new Snack(3);
-
+		System.out.println("Hi!");
 }
 	
 }
